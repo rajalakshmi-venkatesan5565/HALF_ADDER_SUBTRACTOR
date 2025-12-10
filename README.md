@@ -61,7 +61,7 @@ assign C1=A&B;
 assign D1=A^B;
 assign B1=~A&B;
 endmodule
-Developed by: RegisterNumber:*/
+Developed by:Rajalakshmi V RegisterNumber:25016476
 
 **RTL Schematic**
 
@@ -75,3 +75,4 @@ Developed by: RegisterNumber:*/
 
 
 **Result:**
+Thus I have,Implemented the Half Adder and Half Subtractor circuit using Quartus software.
